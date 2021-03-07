@@ -10,11 +10,11 @@
 			</svg>
 
 
-			<!-- {% if page.url != '/' %} -->
+			{% if page.url != '/' %}
 				<a href="../" target="_self"><img class="headerIcon" src="{{ site.app_icon | relative_url }}"></a>
-			<!-- {% else %} -->
-				<!-- <img class="headerIcon" src="{{ site.app_icon | relative_url }}"> -->
-			<!-- {% endif %} -->
+			{% else %}
+				<img class="headerIcon" src="{{ site.app_icon | relative_url }}">
+			{% endif %}
 
 
 			<div class="divider"></div>
