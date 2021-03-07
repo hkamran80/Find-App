@@ -4,20 +4,11 @@
 	{% endif %}
 	<div class="footerIcons">
 
-		{% if site.facebook_username %}
-			<a href="https://facebook.com/{{ site.facebook_username }}">
+		{% if site.medium_username %}
+			<a href="https://{{ site.medium_username }}.medium.com/">
 				<span class="fa-stack fa-1x">
 					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-facebook fa-stack-1x"></i>
-				</span>
-			</a>
-		{% endif %}
-
-		{% if site.twitter_username %}
-			<a href="https://twitter.com/{{ site.twitter_username }}">
-				<span class="fa-stack fa-1x">
-					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fab fa-twitter fa-stack-1x"></i>
+					<i class="socialIconTop fab fa-medium-m fa-stack-1x"></i>
 				</span>
 			</a>
 		{% endif %}
@@ -31,11 +22,20 @@
 			</a>
 		{% endif %}
 
-		{% if site.email_address %}
-			<a href="mailto:{{ site.email_address }}">
+		{% if site.reddit_username %}
+			<a href="https://github.com/{{ site.github_username }}">
 				<span class="fa-stack fa-1x">
 					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-					<i class="socialIconTop fas fa-envelope fa-stack-1x"></i>
+					<i class="socialIconTop fab fa-reddit fa-stack-1x"></i>
+				</span>
+			</a>
+		{% endif %}
+
+		{% if site.discord_link %}
+			<a href="{{ discord_link }}">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-discord fa-stack-1x"></i>
 				</span>
 			</a>
 		{% endif %}
