@@ -72,7 +72,7 @@ features                                  :
 
 # Theme Settings
 topbar_color                              : "#0096cc"
-topbar_transparency                       : 0.3
+topbar_transparency                       : 0.0
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerImage.jpg                   # Replace with alternative image path or image URL.
@@ -83,7 +83,7 @@ device_color                              : blue                                
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#0096cc"
+link_color                                : "#00a8e6"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -92,7 +92,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#0096cc"
+feature_icons_foreground_color            : "#00a8e6"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
