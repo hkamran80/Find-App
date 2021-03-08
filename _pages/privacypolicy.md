@@ -6,7 +6,7 @@ page_order: 2
 ---
 
 **Last updated**  
- April 6, 2020
+March 7, 2021
 
 ## Privacy Policy
 

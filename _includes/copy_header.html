@@ -1,0 +1,35 @@
+<script>
+    document.addEventListener('DOMContentLoaded', init, false);
+
+    function init() {
+
+        const codeBlocks = document.querySelectorAll('.copy-header + pre.link_block');
+        const copyCodeButtons = document.querySelectorAll('.copy-code-button');
+
+        copyCodeButtons.forEach((copyCodeButton, index) => {
+            const code = codeBlocks[index].innerText;
+
+
+            copyCodeButton.addEventListener('click', () => {
+                navigator.clipboard.writeText(code);
+                copyCodeButton.classList.add('copied');
+
+                setTimeout(() => {
+                    copyCodeButton.classList.remove('copied');
+                }, 2000);
+            });
+        });
+    };
+
+console.log("initasdasdt")
+</script>
+
+
+
+<div class="copy-header">
+
+    <p class="title_label">{{ include.content }}</p>
+
+    <button class="copy-code-button" aria-label="Copy code to clipboard"><i class="fa fa-clipboard" style="margin-top: -3px;"></i></button>
+
+</div>

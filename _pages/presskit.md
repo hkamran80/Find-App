@@ -17,12 +17,12 @@ Help Find grow! It's a pretty small app built by a pretty small team... well, mo
 <table>
 <tr>
 <td>
-<a href=""> <h3>Download Asset Kit</h3></a>
+<a href="{{ '/assets/press/find-press-kit.zip' | relative_url }}"> <h3>Download Asset Kit</h3></a>
 
 </td>
 <td>
 
-<img src="{{ '/assets/pressKitAvatar.png' | relative_url }}" height="60">
+<img src="{{ '/assets/press/pressKitAvatar.png' | relative_url }}" height="60">
 
 </td>
 </tr>
@@ -107,14 +107,32 @@ Time is valuable. Leave the repetitive work of struggling through page after pag
 </div>
 
 
-{% include codeHeader.html %}
-```someLanguage
-code goes in here!
-```
 
-<div class="code-header">
-    <button class="copy-code-button" aria-label="Copy code to clipboard"></button>
-</div>
+{% include copy_header.html content="Find App Store URL" %}
+<pre class="link_block">
+https://apps.apple.com/app/find-command-f-for-camera/id1506500202
+</pre>
+
+{% include copy_header.html content="Find App Store Shortlink" %}
+<pre class="link_block">
+https://as.getfind.app
+</pre>
+
+{% include copy_header.html content="Find Website" %}
+<pre class="link_block">
+https://getfind.app
+</pre>
+
+{% include copy_header.html content="Developer Reddit" %}
+<pre class="link_block">
+https://www.reddit.com/user/aheze
+</pre>
+
+{% include copy_header.html content="Developer Discord" %}
+<pre class="link_block">
+https://discord.com/users/743230678795288637
+</pre>
+
 
 <br>
 
