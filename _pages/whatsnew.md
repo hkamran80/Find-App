@@ -6,12 +6,9 @@ page_order: 0
 ---
 
 # What's New
-Check out Find's timeline!
+Check out Find's timeline! We have made a lot of progress.
 
-<kbd><img src="/assets/whatsnewavatar.png"></kbd>
-
-<br>
-
+<div markdown="1" class="latest">
 ### `Latest Release`
 ###### March 7, 2021
 ## **Version 1.2.5**
@@ -30,11 +27,14 @@ Bug Fixes:
 - Settings icon not visible in older iOS versions
 - Photo controls sometimes missing
 
+</div>
 <br>
 
 ###### February 25, 2021
 ## **Version 1.2.4**
-Find is a lot more stable now!
+
+<details markdown="1">
+<summary>Find is a lot more stable now!</summary>
 
 #### What's New
 Improvements:
@@ -50,22 +50,29 @@ Bug Fixes:
 - Haptic feedback was off by default
 - Status bar would not hide when viewing photos in full-screen
 
+</details>
+
 <br>
 
 ###### February 13, 2021
 ## **Version 1.2.3**
-Pushed the last release a bit too hurriedly. 
+
+<details markdown="1">
+<summary>Pushed the last release a bit too hurriedly.</summary>
 
 #### What's New
 Fixed these bugs:
 - Incorrect caching progress indicator
 - Full screen photo finding should have dark background
 
+</details>
 <br>
 
 ###### February 12, 2021
 ## **Version 1.2.2**
-Some general improvements.
+
+<details markdown="1">
+<summary>Some general improvements.</summary>
 
 #### What's New
 UI Updates:
@@ -77,22 +84,30 @@ Fixed these bugs:
 - Keyboard doesn’t hide when transitioning to full screen in Photos
 - Swipe to navigate between tabs is disabled by default
 
+</details>
+
 <br>
 
 ###### February 6, 2021
 ## **Version 1.2.1**
-Find is now only ~30mb (may vary depending on your device).
+
+<details markdown="1">
+<summary>Find is now only ~30mb (may vary depending on your device).</summary>
 
 #### What's New
 Fixes:
 - I accidentally left a couple testing images in the app bundle. Combined, that added an extra 40 mb 😳 ...
+
+</details>
 
 <br>
 
 ### `Super Major Release`
 ###### February 4, 2021
 # **Version 1.2.0**
-It’s 2021, so we added 21 new features! This is Find’s biggest update yet. There's so much new stuff that it seems like a different app, but I've listed out everything below.
+
+<details markdown="1">
+<summary>It’s 2021, so we added 21 new features! This is Find’s biggest update yet. There's so much new stuff that it seems like a different app, but I've listed out everything below.</summary>
 
 #### What's New
 
@@ -162,6 +177,8 @@ It’s 2021, so we added 21 new features! This is Find’s biggest update yet. T
 
 Well, that’s pretty much all! And Find is still completely free with no ads, even almost a year later. Enjoy, and keep the reviews coming!
 
+</details>
+
 <br>
 
 ---
@@ -170,48 +187,67 @@ Well, that’s pretty much all! And Find is still completely free with no ads, e
 
 ###### October 23, 2020
 ## **Version 1.1.5**
-The order of the screenshots got messed up, so I fixed them in this patch.
+
+<details markdown="1">
+<summary>The order of the screenshots got messed up, so I fixed them in this patch.</summary>
 
 #### What's New
 Fixes:
 - Updated screenshot order
 
+</details>
+
 <br>
 
 ###### October 21, 2020
 ## **Version 1.1.4**
-More minor updates!
+
+
+<details markdown="1">
+<summary>More minor updates!</summary>
 
 #### What's New
 Fixes:
 - Updated broken links
 
+</details>
+
 <br>
 
 ###### September 19, 2020
 ## **Version 1.1.3**
-Minor updates!
+
+<details markdown="1">
+<summary>Minor updates!</summary>
 
 #### What's New
 Improvements:
 - Faster and more efficient finding
 
+</details>
+
 <br>
 
 ###### July 30, 2020
 ## **Version 1.1.2**
-More general improvements.
+
+<details markdown="1">
+<summary>More general improvements.</summary>
 
 #### What's New
 Improvements:
 - Added background blurs
 - Updated support URL
 
+</details>
+
 <br>
 
 ###### July 8, 2020
 ## **Version 1.1.1**
-Visual improvements and minor bug fixes.
+
+<details markdown="1">
+<summary>Visual improvements and minor bug fixes.</summary>
 
 #### What's New
 General Improvements:
@@ -222,12 +258,16 @@ Fixed these bugs:
 - Overlapping text in Photos
 - No Chinese translation when Caching photos
 
+</details>
+
 <br>
 
 ### `Major Release`
 ###### July 3, 2020
 # **Version 1.1.0**
-您好！We've translated Find into Chinese! However, only English and Pinyin are currently supported as input by the text recognition engine.
+
+<details markdown="1">
+<summary>您好！We've translated Find into Chinese! However, only English and Pinyin are currently supported as input by the text recognition engine.</summary>
 
 #### What's New
 New Features:
@@ -243,6 +283,8 @@ Name changes:
 - "History" is now "Photos"
 - "Matches" is now "Words to Find"
 
+</details>
+
 <br>
 
 ---
@@ -251,7 +293,9 @@ Name changes:
 
 ###### April 21, 2020
 ## **Version 1.0.2**
-More general bug fixes and improvements. I had some trouble with the build number, but it turned out fine!
+
+<details markdown="1">
+<summary>More general bug fixes and improvements. I had some trouble with the build number, but it turned out fine!</summary>
 
 #### What's New
 New Features:
@@ -268,11 +312,17 @@ General Improvements:
 - Minor improvements in Lists Builder
 - Overlays are now also optimized for iPad
 
+</details>
+
 <br>
 
 ###### April 14, 2020
 ## **Version 1.0.1**
-Some general bug fixes and improvements.
+
+<details markdown="1">
+
+<summary>Some general bug fixes and improvements.</summary>
+
 
 #### What's New
 UI Updates:
@@ -291,6 +341,8 @@ Fixed these bugs:
 General Improvements:
 - As long as one photo is not yet cached, tapping Cache when multiple photos are selected will now cache all selected photos
 - Warnings are less obstructive
+
+</details>
 
 <br>
 
