@@ -1,8 +1,8 @@
 #page title
 #page_title                                : "Find: Command+F for Camera"                                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
-/project-name
 
-baseurl                                   : /Find-app{{ site.baseurl }}{{ post.url }}
+
+baseurl                                   : /Find-app
 
 # App Info
 ios_app_id                                : 1506500202                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
