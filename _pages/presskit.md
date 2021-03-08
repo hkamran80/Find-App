@@ -19,7 +19,7 @@ Help Find grow! It's a pretty small app built by a pretty small team... well, mo
 </td>
 <td>
 
-<img src="{{ site.baseurl }}{{ post.url }}/assets/pressKitAvatar.png" height="60">
+<img src="{{ '/assets/pressKitAvatar.png' | relative_url }}" height="60">
 
 </td>
 </tr>
@@ -40,7 +40,7 @@ Time is valuable. Leave the repetitive work of struggling through page after pag
 <summary>Multiple words - Find as many words as you want at the same time</summary>
 
 <br>
-<img src="/assets/press/press-multipleWords.png" width="300">
+<img src="{{ '/assets/press/press-multipleWords.png' | relative_url }}" width="300">
 <br>
 </details>
 
@@ -48,7 +48,7 @@ Time is valuable. Leave the repetitive work of struggling through page after pag
 <summary>Lists - Group words together. Great for keeping an eye out for dietary restrictions or allergies.</summary> 
 
 <br>
-<img src="/assets/press/press-list.png" width="300">
+<img src="{{ '/assets/press/press-list.png' | relative_url }}" width="300">
 <br>
 </details>
 
@@ -56,7 +56,7 @@ Time is valuable. Leave the repetitive work of struggling through page after pag
 <summary>Combine lists - customize their highlight colors to effortlessly tell apart words.</summary>
 
 <br>
-<img src="/assets/press/press-multipleLists.png" width="300">
+<img src="{{ '/assets/press/press-multipleLists.png' | relative_url }}" width="300">
 <br>
 </details>
 
