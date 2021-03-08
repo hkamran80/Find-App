@@ -19,7 +19,7 @@ Help Find grow! It's a pretty small app built by a pretty small team... well, mo
 </td>
 <td>
 
-<img src="/assets/pressKitAvatar.png" height="60">
+<img src="{{ site.baseurl }}{{ post.url }}/assets/pressKitAvatar.png" height="60">
 
 </td>
 </tr>
