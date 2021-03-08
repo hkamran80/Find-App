@@ -6,7 +6,7 @@ page_order: 0
 ---
 
 # What's New
-Check out Find's timeline! We have made a lot of progress.
+Check out Find's timeline! We've made a lot of progress.
 
 <div markdown="1" class="latest">
 

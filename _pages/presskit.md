@@ -9,7 +9,7 @@ page_order: 1
 Help Find grow! It's a pretty small app built by a pretty small team... well, more like a one person team. But, it's got my full confidence, and more.. Want to join me in spreading the word?
 
 <div>
-<i class="iconTop fas fa-images fa-stack-1x" style="position: relative; width: 30px; float: left; margin-top: 3px; margin-left: -8px;"></i>
+<i class="iconTop fas fa-images fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
 
 <h2>Screenshots & Assets</h2>
 </div>
@@ -17,7 +17,7 @@ Help Find grow! It's a pretty small app built by a pretty small team... well, mo
 <table>
 <tr>
 <td>
-<a href="{{ '/assets/press/find-press-kit.zip' | relative_url }}"> <h3>Download Asset Kit</h3></a>
+<a href="{{ '/assets/press/find-asset-kit.zip' | relative_url }}"> <h3>Download Asset Kit</h3></a>
 
 </td>
 <td>
@@ -31,7 +31,7 @@ Help Find grow! It's a pretty small app built by a pretty small team... well, mo
 <br>
 
 <div>
-<i class="iconTop fas fa-file-alt fa-stack-1x" style="position: relative; width: 30px; float: left; margin-top: 3px; margin-left: -8px;"></i>
+<i class="iconTop fas fa-file-alt fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
 
 <h2>Description</h2>
 </div>
@@ -44,7 +44,7 @@ Find is completely free and works 100% offline. The Optical Character Recognitio
 
 
 <div>
-<i class="iconTop fas fa-magic fa-stack-1x" style="position: relative; width: 30px; float: left; margin-top: 3px; margin-left: -8px;"></i>
+<i class="iconTop fas fa-magic fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
 
 <h2>Features</h2>
 </div>
@@ -71,7 +71,7 @@ Find is completely free and works 100% offline. The Optical Character Recognitio
 
   </details>  
 
-### Feature spotlight: Lists
+### Feature Spotlight: Lists
 Time is valuable. Leave the repetitive work of struggling through page after page to a machine, which makes less mistakes. With Lists, Find is more than just <kbd>Command</kbd> + <kbd>F</kbd>.
 
 <details>
@@ -101,7 +101,7 @@ Time is valuable. Leave the repetitive work of struggling through page after pag
 <br>
 
 <div>
-<i class="iconTop fas fa-link fa-stack-1x" style="position: relative; width: 30px; float: left; margin-top: 3px; margin-left: -8px;"></i>
+<i class="iconTop fas fa-link fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
 
 <h2>Helpful Links</h2>
 </div>
@@ -137,7 +137,7 @@ https://discord.com/users/743230678795288637
 <br>
 
 <div>
-<i class="iconTop fas fa-user fa-stack-1x" style="position: relative; width: 30px; float: left; margin-top: 3px; margin-left: -8px;"></i>
+<i class="iconTop fas fa-user fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
 
 <h2>About the Developer</h2>
 </div>
