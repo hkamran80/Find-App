@@ -106,6 +106,16 @@ Time is valuable. Leave the repetitive work of struggling through page after pag
 <h2>Helpful Links</h2>
 </div>
 
+
+{% include codeHeader.html %}
+```someLanguage
+code goes in here!
+```
+
+<div class="code-header">
+    <button class="copy-code-button" aria-label="Copy code to clipboard"></button>
+</div>
+
 <br>
 
 <div>
