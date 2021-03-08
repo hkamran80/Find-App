@@ -9,8 +9,9 @@ page_order: 0
 Check out Find's timeline! We have made a lot of progress.
 
 <div markdown="1" class="latest">
-### `Latest Release`
+
 ###### March 7, 2021
+### `Latest Release`
 ## **Version 1.2.5**
 Some much-needed changes here.
 
@@ -102,8 +103,8 @@ Fixes:
 
 <br>
 
-### `Super Major Release`
 ###### February 4, 2021
+### `Super Major Release`
 # **Version 1.2.0**
 
 <details markdown="1">
@@ -262,8 +263,8 @@ Fixed these bugs:
 
 <br>
 
-### `Major Release`
 ###### July 3, 2020
+### `Major Release`
 # **Version 1.1.0**
 
 <details markdown="1">
@@ -346,8 +347,8 @@ General Improvements:
 
 <br>
 
-### `Initial Release`
 ###### April 6, 2020
+### `Initial Release`
 # **Version 1.0**
 After almost an year, Find is here! Thanks to everyone who supported me. Without you guys, Find would have just been a fleeing idea.
 
