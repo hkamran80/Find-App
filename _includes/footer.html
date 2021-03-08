@@ -40,7 +40,8 @@
 
 	</div>
 	<div class="footerLinks">
-		{% for page in site.pages %}
+		{% assign sorted_pages = site.pages | sort:"page_order" %}
+		{% for page in sorted_pages %}
 		<a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a>
 		{% endfor %}
 	</div>

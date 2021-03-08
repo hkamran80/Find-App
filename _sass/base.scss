@@ -45,6 +45,15 @@ a:visited,
 a:active {
 	color: $accent-color;
 	text-decoration: none;
+
+	h3 {
+		color: $accent-color;
+		text-decoration: none;
+		padding-top: 0px;
+ 		padding-right: 12px;
+  		padding-bottom: 6px;
+  		padding-left: 12px;
+	}
 }
 
 // Shadows

@@ -26,7 +26,8 @@
 
 	<nav class="scroll">
 		<ul>
-			{% for node in site.pages %}
+			{% assign sorted_pages = site.pages | sort:"page_order" %}
+			{% for node in sorted_pages %}
 			{% if node.include_in_header == true %}
 
 			{% if page.url == node.url %}

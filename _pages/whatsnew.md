@@ -2,10 +2,13 @@
 layout: page
 title: What's New
 include_in_header: true
+page_order: 0
 ---
 
 # What's New
-Check out Find's entire history!
+Check out Find's timeline!
+
+<kbd><img src="/assets/whatsnewavatar.png"></kbd>
 
 <br>
 

@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 include_in_header: false
+page_order: 3
 ---
 
 # Contact
