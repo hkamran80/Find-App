@@ -405,20 +405,44 @@ nav > ul li a:active {
 	clip-path: url(#screenMask);
 	margin-left: 26px;
 	margin-top: 23px;
-
-	animation: fadeInAnimation ease 1.5s; 
-	animation-iteration-count: 1; 
-	animation-fill-mode: forwards; 
 }
 
-@keyframes fadeInAnimation { 
-	0% { 
-		opacity: 0; 
-	} 
-	100% { 
-		opacity: 1; 
-	} 
-} 
+.fadeInImage {
+	-webkit-animation: fadeInAnimation 0s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadeInAnimation 2s; /* Firefox < 16 */
+        -ms-animation: fadeInAnimation 2s; /* Internet Explorer */
+         -o-animation: fadeInAnimation 2s; /* Opera < 12.1 */
+            animation: fadeInAnimation 2s;
+}
+
+@keyframes fadeInAnimation {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadeInAnimation {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadeInAnimation {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadeInAnimation {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadeInAnimation {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
 
 .videoContainer {
 	width: 349px;
