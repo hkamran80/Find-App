@@ -1,7 +1,7 @@
 <header>
 
-	<a href="../">
-		<div class="logo">
+	<a href="../" target="_self" class="logo">
+		<!-- <div class="logo"> -->
 			<div class="appIconShadow">
 				<svg width="0" height="0">
 					<defs>
@@ -13,12 +13,7 @@
 					</defs>
 				</svg>
 
-<!-- 
-				{% if page.url != '/' %}
-				<a href="../" target="_self"><img class="headerIcon" src="{{ site.app_icon | relative_url }}"></a>
-				{% else %} -->
 				<img class="headerIcon" src="{{ site.app_icon | relative_url }}">
-				<!-- {% endif %} -->
 
 
 				<div class="divider"></div>
@@ -26,19 +21,22 @@
 
 			<p class="headerName">{{ site.app_name }}</p>
 
-		</div>
+		<!-- </div> -->
 	</a>
 
 	<nav class="scroll">
 		<ul>
-			{% for page in site.pages %}
-			{% if page.include_in_header == true %}
-			<li><a href="{{ page.url | relative_url }}" target="_self">{{ page.title }}</a></li>
+			{% for node in site.pages %}
+			{% if node.include_in_header == true %}
+
+			{% if page.url == node.url %}
+			<li><a href="{{ node.url | relative_url }}" target="_self" style="color:{{ site.link_color }};">{{ node.title }}</a></li>
+			{% else %}
+			<li><a href="{{ node.url | relative_url }}" target="_self" >{{ node.title }}</a></li>
+			{% endif %}
+
 			{% endif %}
 			{% endfor %}
-			{% if site.presskit_download_link %}
-			<li><a href="{{ site.presskit_download_link }}">Press Kit</a></li>
-			{% endif %}
 		</ul>
 	</nav>
 </header>
