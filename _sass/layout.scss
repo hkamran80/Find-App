@@ -248,11 +248,15 @@ nav > ul li a:active {
 	flex-wrap: wrap;
 	padding-top: 140px;
 	align-content: flex-start;
+	margin-top: -24px;
+	margin-left: -30px;
+
 }
 
 @media only screen and (max-width: 992px) {
 
 	.appInfo {
+		margin-left: 0px;
 		padding-top: 50px;
 		justify-content: center;
 	}
@@ -269,6 +273,12 @@ nav > ul li a:active {
 	height: 120px;
 	-webkit-clip-path: url(#shape120);
 	clip-path: url(#shape120);
+	// margin-bottom: 30px;
+
+	// margin-top: -24px;
+	// margin-right: 30px;
+	margin-left: 30px;
+	margin-top: 24px;
 }
 
 .appNamePriceContainer {
@@ -278,10 +288,13 @@ nav > ul li a:active {
 	align-items: start;
 	justify-content: center;
 	margin-left: 30px;
+
+	margin-top: 24px;
 }
 
 .appName {
 	color: $app-title-color;
+	// margin-top: 24px;
 }
 
 .appPrice {
@@ -291,6 +304,11 @@ nav > ul li a:active {
 }
 
 @media only screen and (max-width: 768px) {
+
+	// .appIconLarge {
+	// 	margin-left: 0px;
+	// 	text-align: center;
+	// }
 
 	.appNamePriceContainer {
 		width: 100%;
@@ -323,26 +341,33 @@ nav > ul li a:active {
 
 .appDescription {
 	color: $app-description-color;
+	margin-left: 30px;
 }
 
 @media only screen and (max-width: 992px) {
 
-	.appDescription {
+	.appIconLarge {
+		margin-left: 0px;
 		text-align: center;
 	}
-	
+	.appDescription {
+		text-align: center;
+		margin-left: 0px;
+	}
 } 
 
 .downloadButtonsContainer {
 	display: inline-block;
 	margin-top: 42px;
 	filter: $drop-shadow;
+	margin-left: 30px;
 }
 
 @media only screen and (max-width: 992px) {
 
 	.downloadButtonsContainer {
 		text-align: center;
+		margin-left: 0px;
 	}
 	
 } 
