@@ -7,7 +7,7 @@ page_order: 3
 
 # Contact
 
-DM me on [Discord](https://discord.com/users/743230678795288637) or [Reddit](https://www.reddit.com/user/aheze).
+DM me on [Discord](https://discord.com/users/743230678795288637) or [Reddit](https://www.reddit.com/user/aheze). [Email](mailto:aheze@getfind.app) is fine too.
 
 --- | ---
 **Questions?** | Hit me up.
