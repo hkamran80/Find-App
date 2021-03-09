@@ -4,7 +4,12 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<base target="_blank">
 
-	<title class="pageTitle">{{ site.page_title }}</title>
+	{% if page.title.size > 1 %}
+	<title class="pageTitle">Find - {{ page.title }}</title>
+	{% else %}
+	<title class="pageTitle">Find: Command+F for Camera</title>
+	{% endif %}
+	
 	<meta name="description" content="{{ site.app_description }}">
 
 	<!--  Essential META Tags -->

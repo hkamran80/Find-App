@@ -1,6 +1,5 @@
 #page title
-page_title                                : "Find"                                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
-
+# page_title                                : "Find app"                                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # baseurl                                   : /Find-app
 
