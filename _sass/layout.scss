@@ -408,11 +408,11 @@ nav > ul li a:active {
 }
 
 .fadeInImage {
-	-webkit-animation: fadeInAnimation 0s; /* Safari, Chrome and Opera > 12.1 */
-       -moz-animation: fadeInAnimation 2s; /* Firefox < 16 */
-        -ms-animation: fadeInAnimation 2s; /* Internet Explorer */
-         -o-animation: fadeInAnimation 2s; /* Opera < 12.1 */
-            animation: fadeInAnimation 2s;
+	-webkit-animation: fadeInAnimation 1.5s; /* Safari, Chrome and Opera > 12.1 */
+       -moz-animation: fadeInAnimation 1.5s; /* Firefox < 16 */
+        -ms-animation: fadeInAnimation 1.5s; /* Internet Explorer */
+         -o-animation: fadeInAnimation 1.5s; /* Opera < 12.1 */
+            animation: fadeInAnimation 1.5s;
 }
 
 @keyframes fadeInAnimation {

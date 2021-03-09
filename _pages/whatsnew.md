@@ -22,7 +22,7 @@ We made a bunch of improvements to the camera.
 - New full screen mode
 - Faster launching
 
-Bug Fixes:
+#### Bug Fixes
 - Camera shutter sometimes not tappable
 - Camera freezes after coming back from the App Switcher
 - Settings icon not visible in older iOS versions
@@ -38,13 +38,12 @@ Bug Fixes:
 <summary>Find is a lot more stable now!</summary>
 
 #### What's New
-Improvements:
 - Slide to select multiple photos quickly
 - Smoother transition when pausing the preview
 - New morphing animation in the Stats button
 - Cleaner interface for the Lists Builder
 
-Bug Fixes:
+#### Bug Fixes
 - Some colors would turn white in dark mode
 - Crash when loading the thumbnail of an animated image
 - Highlights would sometimes not disappear
@@ -61,8 +60,7 @@ Bug Fixes:
 <details markdown="1">
 <summary>Pushed the last release a bit too hurriedly.</summary>
 
-#### What's New
-Fixed these bugs:
+#### Bug Fixes
 - Incorrect caching progress indicator
 - Full screen photo finding should have dark background
 
@@ -75,11 +73,10 @@ Fixed these bugs:
 <details markdown="1">
 <summary>Some general improvements.</summary>
 
-#### What's New
-UI Updates:
+#### UI Updates
 - New non-modal interface for caching individual photos
 
-Fixed these bugs:
+#### Bug Fixes
 - In Camera, caching progress doesn’t disappear when done
 - Pressing “continue” doesn’t do anything in Photos
 - Keyboard doesn’t hide when transitioning to full screen in Photos
@@ -95,8 +92,7 @@ Fixed these bugs:
 <details markdown="1">
 <summary>Find is now only ~30mb (may vary depending on your device).</summary>
 
-#### What's New
-Fixes:
+#### Bug Fixes
 - I accidentally left a couple testing images in the app bundle. Combined, that added an extra 40 mb 😳 ...
 
 </details>
@@ -192,8 +188,7 @@ Well, that’s pretty much all! And Find is still completely free with no ads, e
 <details markdown="1">
 <summary>The order of the screenshots got messed up, so I fixed them in this patch.</summary>
 
-#### What's New
-Fixes:
+#### Bug Fixes
 - Updated screenshot order
 
 </details>
@@ -207,8 +202,7 @@ Fixes:
 <details markdown="1">
 <summary>More minor updates!</summary>
 
-#### What's New
-Fixes:
+#### Bug Fixes
 - Updated broken links
 
 </details>
@@ -221,8 +215,7 @@ Fixes:
 <details markdown="1">
 <summary>Minor updates!</summary>
 
-#### What's New
-Improvements:
+#### Improvements
 - Faster and more efficient finding
 
 </details>
@@ -236,7 +229,6 @@ Improvements:
 <summary>More general improvements.</summary>
 
 #### What's New
-Improvements:
 - Added background blurs
 - Updated support URL
 
@@ -250,12 +242,11 @@ Improvements:
 <details markdown="1">
 <summary>Visual improvements and minor bug fixes.</summary>
 
-#### What's New
-General Improvements:
+#### General Improvements
 - Tutorials appear only when you need them
 - Smoother transitions
 
-Fixed these bugs:
+#### Bug Fixes
 - Overlapping text in Photos
 - No Chinese translation when Caching photos
 
@@ -270,17 +261,16 @@ Fixed these bugs:
 <details markdown="1">
 <summary>您好！We've translated Find into Chinese! However, only English and Pinyin are currently supported as input by the text recognition engine.</summary>
 
-#### What's New
-New Features:
+#### New Features
 - More focused onboarding and tutorials
 - What's New screen for displaying new features
 
-Fixed these bugs:
+#### Bug Fixes
 - "Ok" button covers up text in the tutorials
 - Icon preview in the Lists Builder appears overly large
 - Overlapping text in the Help screen
 
-Name changes:
+#### Name Changes
 - "History" is now "Photos"
 - "Matches" is now "Words to Find"
 
@@ -298,18 +288,17 @@ Name changes:
 <details markdown="1">
 <summary>More general bug fixes and improvements. I had some trouble with the build number, but it turned out fine!</summary>
 
-#### What's New
-New Features:
+#### New Features
 - Share photos!
 - Floating Keyboard support (iPad)
 
-Fixed these bugs:
+#### Bug Fixes
 - Photos don’t appear in History on first launch
 - Context Menu interaction enabled during selection mode in History
 - Can’t dismiss onboarding
 - During Caching, first and last photos are clipped
 
-General Improvements:
+#### General Improvements
 - Minor improvements in Lists Builder
 - Overlays are now also optimized for iPad
 
@@ -325,13 +314,12 @@ General Improvements:
 <summary>Some general bug fixes and improvements.</summary>
 
 
-#### What's New
-UI Updates:
+#### UI Updates
 - History photos have smarter corner radii
 - Improved Dark Mode support
 - Smoother transition when tapping a photo in History (on iPad)
 
-Fixed these bugs:
+#### Bug Fixes
 - Photos don’t appear in History on first launch / Crash when tapped
 - Go button partially covered during onboarding
 - Stats menu disappears when a new match is found
@@ -339,7 +327,7 @@ Fixed these bugs:
 - Crash on iPad when tapping certain buttons
 - Placeholder image when camera access was denied
 
-General Improvements:
+#### General Improvements
 - As long as one photo is not yet cached, tapping Cache when multiple photos are selected will now cache all selected photos
 - Warnings are less obstructive
 
