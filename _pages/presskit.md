@@ -144,8 +144,6 @@ https://discord.com/users/743230678795288637
 
 I'm A. Zheng, a developer who like making useful things. I started learning how to code a couple years ago, and after countless Udemy tutorials, I finished my first app, which is — as you might have guessed — Find.
 
-Throughout all that time, I've been committed to user privacy. No one likes apps that sell your data. It's the same with outrageous subscriptions and unskippable ads. I've decided that all of my apps won't collect any data at all. They won't have subscriptions or ads either. I'm not in need of money — instead, it's nice to provide something that people can enjoy. Also, I like how this looks:
+Throughout all that time, I've been committed to user privacy. No one likes apps that sell your data. It's the same with outrageous subscriptions and unskippable ads. I've decided that all of my apps won't collect any data at all. They won't have subscriptions or ads either. I'm not in need of money — instead, it's cool to provide something that people can enjoy. 
 
-![]({{ '/assets/dataNotCollected.png' | relative_url }})
-
-
+You can contact me anytime through [Reddit](https://www.reddit.com/user/aheze) or [Discord](https://discord.com/users/743230678795288637) DMs, or via [email](mailto:aheze@getfind.app).
