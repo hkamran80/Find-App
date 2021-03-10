@@ -30,7 +30,12 @@ $feature-icons-background-color: {{ site.feature_icons_background_color }};
 $social-icons-foreground-color: {{ site.social_icons_foreground_color }};
 $social-icons-background-color: {{ site.social_icons_background_color }};
 
+// $background-404: "{{ '/assets/mountains.jpg' | relative_url }}";
+$background-404: "{{ '/assets/mountains.jpg' | relative_url }}";
+
+
 @import 
     "base",
     "layout",
-    "github-markdown"
+    "github-markdown",
+    "404"
