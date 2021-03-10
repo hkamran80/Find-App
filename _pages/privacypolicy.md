@@ -3,10 +3,11 @@ layout: page
 title: Privacy Policy
 include_in_header: false
 page_order: 2
+dont_include_footer: true
 ---
 
 **Last updated**  
-March 7, 2021
+March 9, 2021
 
 ## Privacy Policy
 
@@ -52,4 +53,5 @@ If you have any questions or suggestions about my Privacy Policy, don't hesitate
 
 - Discord - [aheze#3125](https://discord.com/users/743230678795288637)
 - Reddit - [u/aheze](https://www.reddit.com/user/aheze)
+- Email - [aheze@getfind.app](mailto:aheze@getfind.app)
 

@@ -28,15 +28,17 @@
 		<ul>
 			{% assign sorted_pages = site.pages | sort:"page_order" %}
 			{% for node in sorted_pages %}
-			{% if node.include_in_header == true %}
 
+			{% unless node.is_hidden %}
+			{% if node.include_in_header == true %}
 			{% if page.url == node.url %}
 			<li><a href="{{ node.url | relative_url }}" target="_self" style="color:{{ site.link_color }};">{{ node.title }}</a></li>
 			{% else %}
 			<li><a href="{{ node.url | relative_url }}" target="_self" >{{ node.title }}</a></li>
 			{% endif %}
-
 			{% endif %}
+
+			{% endunless %}
 			{% endfor %}
 		</ul>
 	</nav>

@@ -338,6 +338,6 @@ Well, that’s pretty much all! And Find is still completely free with no ads, e
 ###### April 6, 2020
 ### `Initial Release`
 # **Version 1.0**
-After almost an year, Find is here! Thanks to everyone who supported me. Without you guys, Find would have just been a fleeing idea.
+After almost an year, Find is here! Thanks to everyone who supported me. Without you guys, Find would have just been a fleeting idea.
 
 <br>
