@@ -33,6 +33,7 @@ $social-icons-background-color: {{ site.social_icons_background_color }};
 // $background-404: "{{ '/assets/mountains.jpg' | relative_url }}";
 $background-404: "{{ '/assets/mountains.jpg' | relative_url }}";
 
+$n: 10;
 
 @import 
     "base",

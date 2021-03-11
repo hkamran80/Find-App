@@ -381,13 +381,8 @@ nav > ul li a:active {
 	animation: fadeInAnimation 1.5s;
 }
 
-
-.fadeInText {
-	// -webkit-animation: fadeInAnimation, slideInAnimation 0.9s; /* Safari, Chrome and Opera > 12.1 */
-	// -moz-animation: fadeInAnimation 0.9s; /* Firefox < 16 */
-	// -ms-animation: fadeInAnimation 0.9s; /* Internet Explorer */
-	// -o-animation: fadeInAnimation 0.9s; /* Opera < 12.1 */
-	// animation: fadeInAnimation 0.9s;
+.feature.fadeInText {
+	opacity: 0;
 
 	-webkit-animation-name: fadeInAnimation, slideInAnimation;
 	-moz-animation-name: fadeInAnimation, slideInAnimation;
@@ -400,66 +395,116 @@ nav > ul li a:active {
 	-ms-animation-duration: 1000ms;
 	-o-animation-duration: 1000ms;
 	animation-duration: 1000ms;
+
+	animation-fill-mode: forwards;
+
+}
+
+
+@for $i from 1 through $n {
+	.feature:nth-child(#{$i}) {
+		animation-delay: $i * 80ms;
+	}
 }
 
 @keyframes fadeInAnimation {
-	from { opacity: 0; }
-	to { opacity: 1; }
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
 }
 
 /* Firefox < 16 */
 @-moz-keyframes fadeInAnimation {
-	from { opacity: 0; }
-	to { opacity: 1; }
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
 }
 
 /* Safari, Chrome and Opera > 12.1 */
 @-webkit-keyframes fadeInAnimation {
-	from { opacity: 0; }
-	to { opacity: 1; }
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
 }
 
 /* Internet Explorer */
 @-ms-keyframes fadeInAnimation {
-	from { opacity: 0; }
-	to { opacity: 1; }
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
 }
 
 /* Opera < 12.1 */
 @-o-keyframes fadeInAnimation {
-	from { opacity: 0; }
-	to { opacity: 1; }
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
 }
 
 // For slide
 
 @keyframes slideInAnimation {
-	from { transform:  translateX(-8px); }
-	to { transform: translateX(-0px); }
+	from {
+		transform: translateX(-8px);
+	}
+	to {
+		transform: translateX(-0px);
+	}
 }
 
 /* Firefox < 16 */
 @-moz-keyframes slideInAnimation {
-	from { transform:  translateX(-8px); }
-	to { transform: translateX(-0px); }
+	from {
+		transform: translateX(-8px);
+	}
+	to {
+		transform: translateX(-0px);
+	}
 }
 
 /* Safari, Chrome and Opera > 12.1 */
 @-webkit-keyframes slideInAnimation {
-	from { transform:  translateX(-8px); }
-	to { transform: translateX(-0px); }
+	from {
+		transform: translateX(-8px);
+	}
+	to {
+		transform: translateX(-0px);
+	}
 }
 
 /* Internet Explorer */
 @-ms-keyframes slideInAnimation {
-	from { transform:  translateX(-8px); }
-	to { transform: translateX(-0px); }
+	from {
+		transform: translateX(-8px);
+	}
+	to {
+		transform: translateX(-0px);
+	}
 }
 
 /* Opera < 12.1 */
 @-o-keyframes slideInAnimation {
-	from { transform:  translateX(-8px); }
-	to { transform: translateX(-0px); }
+	from {
+		transform: translateX(-8px);
+	}
+	to {
+		transform: translateX(-0px);
+	}
 }
 
 .videoContainer {
@@ -708,7 +753,6 @@ footer {
 }
 
 @media only screen and (max-width: 768px) {
-
 	.footerLinks {
 		flex-direction: column;
 	}
