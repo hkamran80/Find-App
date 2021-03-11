@@ -1,44 +1,50 @@
 <footer>
 
-	<p class="footerText">Made by <a href="https://www.reddit.com/user/aheze">A. Zheng</a></p>
+	<div>
 
-	<div class="footerIcons">
+		<p class="footerText">Made by <a href="https://www.reddit.com/user/aheze">A. Zheng</a></p>
 
-		{% if site.medium_username %}
-		<a href="https://{{ site.medium_username }}.medium.com">
-			<span class="fa-stack fa-1x">
-				<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-				<i class="socialIconTop fab fa-medium-m fa-stack-1x"></i>
-			</span>
-		</a>
-		{% endif %}
+		<div class="footerIcons">
 
-		{% if site.github_username %}
-		<a href="https://github.com/{{ site.github_username }}">
-			<span class="fa-stack fa-1x">
-				<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-				<i class="socialIconTop fab fa-github fa-stack-1x"></i>
-			</span>
-		</a>
-		{% endif %}
+			{% if site.medium_username %}
+			<a href="https://{{ site.medium_username }}.medium.com">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-medium-m fa-stack-1x"></i>
+				</span>
+			</a>
+			{% endif %}
 
-		{% if site.reddit_username %}
-		<a href="https://www.reddit.com/user/{{ site.reddit_username }}">
-			<span class="fa-stack fa-1x">
-				<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-				<i class="socialIconTop fab fa-reddit fa-stack-1x"></i>
-			</span>
-		</a>
-		{% endif %}
+			{% if site.github_username %}
+			<a href="https://github.com/{{ site.github_username }}">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-github fa-stack-1x"></i>
+				</span>
+			</a>
+			{% endif %}
 
-		<a href="https://discord.com/users/743230678795288637">
-			<span class="fa-stack fa-1x">
-				<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
-				<i class="socialIconTop fab fa-discord fa-stack-1x"></i>
-			</span>
-		</a>
+			{% if site.reddit_username %}
+			<a href="https://www.reddit.com/user/{{ site.reddit_username }}">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-reddit fa-stack-1x"></i>
+				</span>
+			</a>
+			{% endif %}
+
+			<a href="https://discord.com/users/743230678795288637">
+				<span class="fa-stack fa-1x">
+					<i class="socialIconBack fas fa-circle fa-stack-2x"></i>
+					<i class="socialIconTop fab fa-discord fa-stack-1x"></i>
+				</span>
+			</a>
+
+		</div>
 
 	</div>
+
+
 	<div class="footerLinks">
 		{% assign sorted_pages = site.pages | sort:"page_order" %}
 		{% for page in sorted_pages %}
