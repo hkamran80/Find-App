@@ -11,7 +11,7 @@ Check out Find's timeline! We've made a lot of progress.
 <div markdown="1" class="latest">
 
 ###### March 13, 2021
-### `Latest Release`
+### `Latest Release` • [`Get It`](https://as.getfind.app)
 ## **Version 1.2.6**
 Fixed some stuff. Now that Find has a website (this one!), I linked it in the app too.
 
