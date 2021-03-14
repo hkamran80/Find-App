@@ -9,6 +9,13 @@
     function init() {
         var scrolled = false;
 
+        const features = document.querySelectorAll('.feature');
+        for (i = 0; i < features.length; i++) {
+            console.log("Looping!!")
+            features[i].classList.toggle("noOpacity", true);
+        }
+
+
         const inViewport = (entries, observer) => {
 
             entries.forEach(entry => {
@@ -60,10 +67,8 @@
                     </div>
 
                     <div class="fadeInImage">
-                        <img class="iphoneScreen" src="" alt="">
+                        <img class="iphoneScreen" src="{{ '/assets/Find.png' | relative_url }}" alt="">
                     </div>
-
-                    {% include screencontent.html %}
 
                 </div>
                 <div class="appInfo">
