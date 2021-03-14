@@ -10,13 +10,28 @@ Check out Find's timeline! We've made a lot of progress.
 
 <div markdown="1" class="latest">
 
-###### March 7, 2021
+###### March 13, 2021
 ### `Latest Release`
-## **Version 1.2.5**
-Some much-needed changes here.
+## **Version 1.2.6**
+Fixed some stuff. Now that Find has a website (this one!), I linked it in the app too.
 
-#### What's New
-We made a bunch of improvements to the camera.
+#### Bug Fixes
+- Screen fades to black when dismissing photos
+- Placeholder text when requesting photo permissions
+- Stats screen not updating
+- Outdated contact information
+
+</div>
+
+<br>
+
+###### March 7, 2021
+## **Version 1.2.5**
+
+<details markdown="1">
+<summary>Some much-needed changes here.</summary>
+
+#### A bunch of improvements to the camera
 - Studying at night? No problem - Find can now use the flashlight!
 - Tap anywhere on the screen to focus
 - New full screen mode
@@ -28,7 +43,8 @@ We made a bunch of improvements to the camera.
 - Settings icon not visible in older iOS versions
 - Photo controls sometimes missing
 
-</div>
+</details>
+
 <br>
 
 ###### February 25, 2021
