@@ -37,7 +37,7 @@ Check out Find's timeline! We've made a lot of progress.
 
 ---
 
-Let me know what you think [here](http://localhost:4000/feedback/)! Here's the current roadmap for future updates:
+Let me know what you think on the [feedback form](https://www.getfind.app/feedback)! Here's the current roadmap for future updates:
 
 1. New languages: French, Italian, German, Spanish, Portuguese
 2. Auto-caching (Automatically cache when you pause the camera) + Chinese support
