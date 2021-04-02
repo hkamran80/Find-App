@@ -10,18 +10,59 @@ Check out Find's timeline! We've made a lot of progress.
 
 <div markdown="1" class="latest">
 
+###### April 1, 2021
+### `Pending Approval`
+## **Version 1.2.7**
+
+
+#### [Thank you, r/iPhone, for your amazing feedback!](https://old.reddit.com/r/iphone/comments/maot5p/find_an_app_that_lets_you_do_commandf_but_in_the/)
+
+**I've never had this much support for Find before. I've added a lot of your feature requests in this update, especially focusing on Accessibility.**
+ 
+- Full VoiceOver support
+- Comprehensive spoken descriptions for highlights
+- Choose pitches to substitute colors
+- Explore text transcript with your finger
+- Browse photos by swiping up and down
+- Speak how many detected results there are
+
+**Here’s some other new stuff:**
+- Improved rendering algorithm for faster results
+- 2 new shutter styles - check them out in Settings!
+- App Clip (hopefully nothing went wrong, it's my first time...)
+
+**And the bug fixes:**
+- What’s New screen in Chinese on some devices
+- Conflicting gestures when finding from photos
+
+---
+
+Let me know what you think [here](http://localhost:4000/feedback/)! Here's the current roadmap for future updates:
+
+1. New languages: French, Italian, German, Spanish, Portuguese
+2. Auto-caching (Automatically cache when you pause the camera) + Chinese support
+3. Translations - thank you [u/atosredd](https://www.reddit.com/user/atosredd) and [u/metalzero24](https://www.reddit.com/user/metalzero24) for volunteering!
+4. Steadier camera - I'll work on making it clearer
+5. Lists sharing - share your lists! With import and export support, and possibly an iMessage app.
+6. And even more after the above are completed.
+
+</div>
+
+<br>
+
 ###### March 13, 2021
 ### `Latest Release` • [`Get It`](https://as.getfind.app)
 ## **Version 1.2.6**
-Fixed some stuff. Now that Find has a website (this one!), I linked it in the app too.
+
+<details markdown="1">
+<summary>Fixed some stuff. Now that Find has a website (this one!), I linked it in the app too.</summary>
 
 #### Bug Fixes
 - Screen fades to black when dismissing photos
 - Placeholder text when requesting photo permissions
 - Stats screen not updating
 - Outdated contact information
-
-</div>
+</details>
 
 <br>
 
