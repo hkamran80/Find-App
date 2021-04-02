@@ -15,7 +15,7 @@ Check out Find's timeline! We've made a lot of progress.
 ## **Version 1.2.7**
 
 
-#### [Thank you, r/iPhone, for your amazing feedback!](https://old.reddit.com/r/iphone/comments/maot5p/find_an_app_that_lets_you_do_commandf_but_in_the/)
+#### [Thank you, r/iPhone, for your amazing feedback!](https://www.reddit.com/r/iphone/comments/maot5p/find_an_app_that_lets_you_do_commandf_but_in_the/)
 
 **I've never had this much support for Find before. I've added a lot of your feature requests in this update, especially focusing on Accessibility.**
  
