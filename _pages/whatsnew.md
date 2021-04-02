@@ -11,7 +11,7 @@ Check out Find's timeline! We've made a lot of progress.
 <div markdown="1" class="latest">
 
 ###### April 1, 2021
-### `Pending Approval`
+### `Latest Release` • [`Get It`](https://as.getfind.app)
 ## **Version 1.2.7**
 
 
@@ -51,7 +51,6 @@ Let me know what you think on the [feedback form](https://www.getfind.app/feedba
 <br>
 
 ###### March 13, 2021
-### `Latest Release` • [`Get It`](https://as.getfind.app)
 ## **Version 1.2.6**
 
 <details markdown="1">
