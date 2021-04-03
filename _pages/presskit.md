@@ -154,7 +154,7 @@ https://discord.com/users/743230678795288637
 <h2>About the Developer</h2>
 </div>
 
-I'm A. Zheng, a.k.a. aheze, a developer who like making useful things. I started learning how to code a couple years ago, and after a lot of Udemy tutorials, I finished my first app, which is — as you might have guessed — Find.
+I'm A. Zheng, a.k.a. aheze, a developer who likes making useful things. I started learning how to code a couple years ago, and after a lot of Udemy tutorials, I finished my first app, which is — as you might have guessed — Find.
 
 Throughout all that time, I've been committed to user privacy. No one likes apps that sell your data. It's the same with outrageous subscriptions and unskippable ads. As such, I'm determined to keep all of my apps free of data collection, subscriptions, and ads. I'm not in need of money — I find more purpose in providing something that people can enjoy. 
 
