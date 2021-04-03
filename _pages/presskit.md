@@ -55,7 +55,7 @@ Find is completely free and works 100% offline. The Optical Character Recognitio
 - Cache photos to index them, so results will appear instantly the next time your find from them
 - Intuitive 3-tab design, which you can swipe between
 - Make and customize lists to group words together
-- Receive a light haptic tap when Find detects results
+- Extended VoiceOver support, with photo transcripts, color pitches, and haptics
 - Fast, accurate, and free. No ads, subscriptions, or in-app purchases.
 - <details markdown="1"><summary>Even more</summary>
 

@@ -29,8 +29,8 @@ background_404                            : assets/mountains.jpg
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : It's like Command+F, but for your camera.
-    description                           : Ctrl+F if you prefer Windows.
+  - title                                 : It's like Command+F, but for your camera
+    description                           : Ctrl+F if you prefer Windows
     fontawesome_icon_name                 : search
     
   - title                                 : Works with anything
@@ -61,15 +61,15 @@ features                                  :
     description                           : Gluten-free? Have allergies? Gather them into a list, and Find will keep an eye out!
     fontawesome_icon_name                 : cookie-bite
     
-  - title                                 : Haptics
-    description                           : Receive a light tap when Find detects results.
-    fontawesome_icon_name                 : play
+  - title                                 : Accessibility
+    description                           : Full VoiceOver support with extended accessibility features.
+    fontawesome_icon_name                 : universal-access
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
-
+ 
 
 # Theme Settings
 topbar_color                              : "#0096cc"
