@@ -6,7 +6,7 @@ page_order: 1
 ---
 
 # Press Kit
-Help Find grow! It's a pretty small app built by a pretty small team... well, more like a one person team. But, I'm working on it in full confidence. Want to join me in spreading the word?
+Help Find grow! It's a pretty small app built by a one person team. But, I'm working on it with my full confidence and everything I got... want to join me in spreading the word?
 
 <div>
 <i class="iconTop fas fa-images fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
@@ -49,7 +49,7 @@ Find is completely free and works 100% offline. The Optical Character Recognitio
 <h2>Features</h2>
 </div>
 
-- Find text anywhere. Works with books, worksheets, nutrition labels, instruction manuels, sales reports, you name it!
+- Find text anywhere. Works with books, worksheets, nutrition labels, instruction manuals, sales reports, you name it!
 - Use the camera, or find from existing photos
 - Batch-find through multiple photos simultaneously
 - Cache photos to index them, so results will appear instantly the next time your find from them

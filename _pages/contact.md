@@ -15,4 +15,4 @@ DM me on [Discord](https://discord.com/users/743230678795288637) or [Reddit](htt
 **Comments?** | Always welcome.
 **Found a bug?** | Please tell me ASAP.
 **Need help with Swift?** | I'm happy to help.
-**Something else?** | My DMs are always open!
+**Something else?** | Message me anytime!
