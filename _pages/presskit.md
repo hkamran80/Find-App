@@ -6,7 +6,7 @@ page_order: 1
 ---
 
 # Press Kit
-Help Find grow! It's a pretty small app built by a one person team, but I'm confident in it... want to join me in spreading the word?
+Help Find grow! It's a pretty small app built by a one person team, but I'm working on it with full confidence. Want to join me in spreading the word?
 
 <div>
 <i class="iconTop fas fa-images fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
