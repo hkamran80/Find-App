@@ -6,7 +6,7 @@ page_order: 1
 ---
 
 # Press Kit
-Help Find grow! It's a pretty small app built by a one person team. But, I'm working on it with my full confidence and everything I got... want to join me in spreading the word?
+Help Find grow! It's a pretty small app built by a one person team, but I'm confident in it... want to join me in spreading the word?
 
 <div>
 <i class="iconTop fas fa-images fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
@@ -36,7 +36,7 @@ Help Find grow! It's a pretty small app built by a one person team. But, I'm wor
 <h2>Description</h2>
 </div>
 
-Find is a fast, focused iOS app that balances speed with awesome capability. Its main feature is to find text in printed documents, and does it extremely well. I value ease-of-use just as much as the user's privacy, so there are no ads or trackers to disrupt their experience.
+Find is a fast, focused iOS app that lets you find text in real life. It brings the power of Command + F to your phone's camera, balancing speed with awesome capability. I value ease-of-use just as much as your privacy, so there are no ads, trackers, or data being collected. 
 
 Find is completely free and works 100% offline. The Optical Character Recognition that powers the core functionality uses on-device technology that's both fast and accurate. It annihilates the human eye, especially when processing hundreds of photos and producing results in seconds.
 
@@ -144,7 +144,9 @@ https://discord.com/users/743230678795288637
 
 - [Top post of the day](https://www.reddit.com/r/iphone/comments/maot5p/find_an_app_that_lets_you_do_commandf_but_in_the/) on r/iPhone, with over 3.5k upvotes
 - Reddit Platinum, Gold, and 60 more [awards](https://www.reddithelp.com/hc/en-us/articles/360043034132) on the same post
-- [4.9/5 average rating from 141 international ratings](https://sensortower.com/ios/US/john-zheng/app/find-command-f-for-camera/1506500202/review-history?selected_tab=reviews)
+- [4.9/5 average rating from 160 international ratings](https://sensortower.com/ios/US/john-zheng/app/find-command-f-for-camera/1506500202/review-history?selected_tab=reviews)
+- "невероятная... Find – обалденно удобный инструмент. Потому и рекомендую." *Incredible... Find is an awesome handy tool. That's why I recommend it.* - [iPhones.ru](https://www.iphones.ru/iNotes/nashyol-genialnoe-prilozhenie-find-nahodit-lyuboe-slovo-v-kadre-ili-fotke-za-sekundu-03-26-2021)
+
 
 <br>
 
