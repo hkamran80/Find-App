@@ -144,7 +144,8 @@ https://discord.com/users/743230678795288637
 
 - [Top post of the day](https://www.reddit.com/r/iphone/comments/maot5p/find_an_app_that_lets_you_do_commandf_but_in_the/) on r/iPhone, with over 3.5k upvotes
 - Reddit Platinum, Gold, and 60 more [awards](https://www.reddithelp.com/hc/en-us/articles/360043034132) on the same post
-- [4.9/5 average rating from 160 international ratings](https://sensortower.com/ios/US/john-zheng/app/find-command-f-for-camera/1506500202/review-history?selected_tab=reviews)
+- [4.9/5 average rating across 160 international ratings](https://sensortower.com/ios/US/john-zheng/app/find-command-f-for-camera/1506500202/review-history?selected_tab=reviews)
+- "Lasst euch beeindrucken" *Let yourself be impressed* - [iphone-ticker.de](https://www.iphone-ticker.de/geheimtipp-find-app-findet-woerter-mit-der-kamera-171960/)
 - "невероятная... Find – обалденно удобный инструмент. Потому и рекомендую." *Incredible... Find is an awesome handy tool. That's why I recommend it.* - [iPhones.ru](https://www.iphones.ru/iNotes/nashyol-genialnoe-prilozhenie-find-nahodit-lyuboe-slovo-v-kadre-ili-fotke-za-sekundu-03-26-2021)
 
 
