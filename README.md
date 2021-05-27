@@ -1,14 +1,18 @@
-## Credits
+### Generated from [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)
+
+---
+
+### Credits
 - [Jekyll](https://github.com/jekyll/jekyll)
 - [FontAwesome](https://fontawesome.github.io/Font-Awesome/)
 
-## Donations
+### Donations
 [Donations are welcome](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=S8ZZT3JXJPN92&currency_code=USD&source=url)
 
-## Author
+### Author
 [Emil Baehr](https://emilbaehr.com/)
 
-## License
+### License
 [MIT License](LICENSE)
 
 ---
