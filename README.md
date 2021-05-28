@@ -1,4 +1,6 @@
-### Generated from [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)
+This is the website for Find, an iOS app that lets you find text in real life. Live website at [getfind.app](https://getfind.app/).
+
+## Generated from [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)
 
 ---
 
@@ -15,6 +17,4 @@
 ### License
 [MIT License](LICENSE)
 
----
 
-This is the website for [Find](https://apps.apple.com/app/find-command-f-for-camera/id1506500202), an iOS app that lets you find text in real life.
