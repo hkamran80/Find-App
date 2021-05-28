@@ -2,8 +2,6 @@ This is the website for Find, an iOS app that lets you find text in real life. L
 
 ## Generated from [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)
 
----
-
 ### Credits
 - [Jekyll](https://github.com/jekyll/jekyll)
 - [FontAwesome](https://fontawesome.github.io/Font-Awesome/)
