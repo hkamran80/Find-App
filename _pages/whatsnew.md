@@ -10,12 +10,33 @@ Check out Find's timeline! We've made a lot of progress.
 
 <div markdown="1" class="latest">
 
-###### April 1, 2021
+###### June 9, 2021
 ### `Latest Release` • [`Get It`](https://as.getfind.app)
+## **Version 1.2.8**
+
+**A couple features to make Find even more useful.**
+- 7 new text recognition languages!
+    - French, Italian, German, Spanish, Portuguese, Chinese (Simplified), and Chinese (Traditional)
+- Redesigned photos slider!
+    - Multi-filter support 
+    - New screenshots category
+- And bug fixes, of course.
+
+---
+
+Let me know what you think on the [feedback form](https://www.getfind.app/feedback)!
+
+</div>
+
+<br>
+
+###### April 1, 2021
 ## **Version 1.2.7**
 
+<details markdown="1">
+<summary>Thank you, <a href="https://www.reddit.com/r/iphone/comments/maot5p/find_an_app_that_lets_you_do_commandf_but_in_the/">r/iPhone</a>, for your amazing feedback!</summary>
 
-#### [Thank you, r/iPhone, for your amazing feedback!](https://www.reddit.com/r/iphone/comments/maot5p/find_an_app_that_lets_you_do_commandf_but_in_the/)
+<br>
 
 **I've never had this much support for Find before. I've added a lot of your feature requests in this update, especially focusing on Accessibility.**
  
@@ -37,7 +58,7 @@ Check out Find's timeline! We've made a lot of progress.
 
 ---
 
-Let me know what you think on the [feedback form](https://www.getfind.app/feedback)! Here's the current roadmap for future updates:
+Here's the current roadmap for future updates:
 
 1. New languages: French, Italian, German, Spanish, Portuguese
 2. Auto-caching (Automatically cache when you pause the camera) + Chinese support
@@ -46,7 +67,7 @@ Let me know what you think on the [feedback form](https://www.getfind.app/feedba
 5. Lists sharing - share your lists! With import and export support, and possibly an iMessage app.
 6. And even more after the above are completed.
 
-</div>
+</details>
 
 <br>
 
