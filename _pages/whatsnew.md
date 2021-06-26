@@ -10,11 +10,24 @@ Check out Find's timeline! We've made a lot of progress.
 
 <div markdown="1" class="latest">
 
-###### June 9, 2021
+###### June 17, 2021
 ### `Latest Release` • [`Get It`](https://as.getfind.app)
+## **Version 1.2.9**
+
+**Check out the enhanced camera!**
+- Photos that you take are now always clear and produce incredibly accurate results
+- Besides that, there's some bug fixes
+- Let me know what you think on the [feedback form](https://www.getfind.app/feedback)!
+
+</div>
+
+
+
+###### June 9, 2021
 ## **Version 1.2.8**
 
-**A couple features to make Find even more useful.**
+<details markdown="1">
+<summary>A couple features to make Find even more useful.</summary>
 - 7 new text recognition languages!
     - French, Italian, German, Spanish, Portuguese, Chinese (Simplified), and Chinese (Traditional)
 - Redesigned photos slider!
@@ -22,11 +35,8 @@ Check out Find's timeline! We've made a lot of progress.
     - New screenshots category
 - And bug fixes, of course.
 
----
+</details>
 
-Let me know what you think on the [feedback form](https://www.getfind.app/feedback)!
-
-</div>
 
 <br>
 
