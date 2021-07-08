@@ -322,13 +322,16 @@ nav > ul li a:active {
 	display: inline-block;
 	margin-top: 42px;
 	filter: $drop-shadow;
-	margin-left: 30px;
+	// margin-left: 30px;
+	margin-left: 18px;
+	// margin-right: 18px;
 }
 
 @media only screen and (max-width: 992px) {
 	.downloadButtonsContainer {
 		text-align: center;
 		margin-left: 0px;
+		// margin-right: 20px;
 	}
 }
 
@@ -353,6 +356,9 @@ nav > ul li a:active {
 
 .appStore {
 	height: 75px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 12px;
 }
 
 // iPhone Device Preview
