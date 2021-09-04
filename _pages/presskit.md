@@ -8,6 +8,20 @@ page_order: 1
 # Press Kit
 Help Find grow! It's a pretty small app built by a one person team, but I'm working on it with everything I got. Want to join me in spreading the word?
 
+
+
+<div>
+<i class="iconTop fas fa-file-alt fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
+
+<h2>Description</h2>
+</div>
+
+Find is a fast, focused iOS app that lets you find text in real life. It brings the power of Command + F to your phone's camera, balancing speed with awesome capability. I value ease-of-use just as much as your privacy, so there are no ads, trackers, or data being collected. 
+
+Find is completely free and works 100% offline. The Optical Character Recognition that powers the core functionality uses on-device technology that's both fast and accurate. It annihilates the human eye, especially when processing hundreds of photos and producing results in seconds.
+
+<br>
+
 <div>
 <i class="iconTop fas fa-images fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
 
@@ -29,19 +43,6 @@ Help Find grow! It's a pretty small app built by a one person team, but I'm work
 </table>
 
 <br>
-
-<div>
-<i class="iconTop fas fa-file-alt fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
-
-<h2>Description</h2>
-</div>
-
-Find is a fast, focused iOS app that lets you find text in real life. It brings the power of Command + F to your phone's camera, balancing speed with awesome capability. I value ease-of-use just as much as your privacy, so there are no ads, trackers, or data being collected. 
-
-Find is completely free and works 100% offline. The Optical Character Recognition that powers the core functionality uses on-device technology that's both fast and accurate. It annihilates the human eye, especially when processing hundreds of photos and producing results in seconds.
-
-<br>
-
 
 <div>
 <i class="iconTop fas fa-magic fa-stack-1x" style="position: relative; width: 40px; float: left; margin-top: -4px; margin-left: -8px; margin-right: 4px; font-size: 24px;"></i>
@@ -123,15 +124,17 @@ https://as.getfind.app
 https://getfind.app
 </pre>
 
+{% include copy_header.html content="Find Discord" %}
+<pre class="link_block">
+https://getfind.app/discord
+</pre>
+
 {% include copy_header.html content="Developer Reddit" %}
 <pre class="link_block">
 https://www.reddit.com/user/aheze
 </pre>
 
-{% include copy_header.html content="Developer Discord" %}
-<pre class="link_block">
-https://discord.com/users/743230678795288637
-</pre>
+
 
 
 <br>
