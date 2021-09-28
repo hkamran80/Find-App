@@ -160,8 +160,9 @@ https://www.reddit.com/user/aheze
 <h2>About the Developer</h2>
 </div>
 
-I'm A. Zheng, a.k.a. aheze, a developer who likes making useful things. I started learning how to code a couple years ago, and after a lot of Udemy tutorials, I finished my first app, which is — as you might have guessed — Find.
+Hi, I'm Andrew Zheng. I'm an iOS developer living in the SF Bay Area. Besides coding, I like to watch anime and read manga/light. I also teach piano.
 
-Throughout all that time, I've been committed to user privacy. No one likes apps that sell your data. It's the same with outrageous subscriptions and unskippable ads. As such, I'm determined to keep all of my apps free of data collection, subscriptions, and ads. I'm not in need of money — I find more purpose in providing something that people can enjoy. 
+Find is my first and most fully-featured app. I originally built it to help out with school, but I think it's gotten to be pretty useful for stuff beyond that. But anyway, I'm very committed to user privacy. No one likes apps that sell your data. It's the same with outrageous subscriptions and unskippable ads. So, all of my apps don't collect data, have subscriptions, or ads.
 
-You can contact me anytime through [Reddit](https://www.reddit.com/user/aheze) or [Discord](https://discord.com/users/743230678795288637) DMs, or via [email](mailto:aheze@getfind.app).
+
+You can contact me anytime through [Reddit](https://www.reddit.com/user/aheze) DMs or [Discord](https://discord.com/invite/Pmq8fYcus2), or via [email](mailto:aheze@getfind.app).

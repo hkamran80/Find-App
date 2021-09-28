@@ -8,7 +8,7 @@ is_hidden: true
 
 # About
 
-I'm A. Zheng, an iOS Developer.
+I'm Andrew Zheng, an iOS Developer.
 
 {% include copy_header.html content="Email" %}
 <pre class="link_block">
