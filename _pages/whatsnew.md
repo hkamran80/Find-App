@@ -10,18 +10,29 @@ Check out Find's timeline! We've made a lot of progress.
 
 <div markdown="1" class="latest">
 
-###### June 17, 2021
+###### Sep 29, 2021
 ### `Latest Release` • [`Get It`](https://as.getfind.app)
-## **Version 1.2.9**
+## **Version 1.2.10**
 
-**Check out the enhanced camera!**
+A couple bug fixes to make sure Find looks great on iOS 15.
+- Fixed - Transparent navigation bar when viewing photos
+- Fixed - Results too large when finding from photos
+- Fixed - Dark status bar when finding from photos
+- Fixed - Text too large in Settings
+
+Also - the v1.3 designs are complete! [Check them out on Figma](https://www.figma.com/file/ERaD6ppNauDjC7DB0op7GE/Find-1.3-Prototype). I'm currently at work converting them into actual code. If you have any suggestions, comments, or whatever, please let me know in the [Discord Server](https://discord.gg/Pmq8fYcus2).
+</div>
+
+<br>
+
+###### June 17, 2021
+## **Version 1.2.9**
+<details markdown="1">
+<summary>Check out the enhanced camera!</summary>
 - Photos that you take are now always clear and produce incredibly accurate results
 - Besides that, there's some bug fixes
 - Let me know what you think on the [feedback form](https://www.getfind.app/feedback)!
-
-</div>
-
-
+</details>
 
 ###### June 9, 2021
 ## **Version 1.2.8**

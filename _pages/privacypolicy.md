@@ -51,7 +51,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 If you have any questions or suggestions about my Privacy Policy, don't hesitate to contact me here:
 
-- Discord - [aheze#3125](https://discord.com/users/743230678795288637)
+- Discord - [aheze#3125](https://discord.gg/Pmq8fYcus2)
 - Reddit - [u/aheze](https://www.reddit.com/user/aheze)
 - Email - [aheze@getfind.app](mailto:aheze@getfind.app)
 
