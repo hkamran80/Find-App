@@ -20,7 +20,7 @@ A couple bug fixes to make sure Find looks great on iOS 15.
 - Fixed - Dark status bar when finding from photos
 - Fixed - Text too large in Settings
 
-Also - the v1.3 designs are complete! [Check them out on Figma](https://www.figma.com/file/ERaD6ppNauDjC7DB0op7GE/Find-1.3-Prototype). I'm currently at work converting them into actual code. If you have any suggestions, comments, or whatever, please let me know in the [Discord Server](https://discord.gg/Pmq8fYcus2).
+Also - the v1.3 designs are complete! I'm currently at work converting them into actual code. If you have any suggestions, comments, or whatever, please let me know in the [Discord Server](https://discord.gg/Pmq8fYcus2).
 </div>
 
 <br>
